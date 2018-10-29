@@ -1,4 +1,3 @@
-# your code goes here
 def begins_with_r(arg)
   arg.all? do |ind_args|
     ind_args.start_with?("r")
